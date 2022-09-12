@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "Male",
+    "name": "Anakin",
+    "lastName": "Solo",
+    "age": 19
+  },
+  {
+    "gender": "Female",
+    "name": "Yaddle",
+    "lastName": "Fett",
+    "age": 31
+  },
+  {
+    "gender": "Female",
+    "name": "Padme",
+    "lastName": "Skywalker",
+    "age": 53
+  },
+  {
+    "gender": "Female",
+    "name": "Barrissa",
+    "lastName": "Organa",
+    "age": 67
+  },
+  {
+    "gender": "Female",
+    "name": "Padme",
+    "lastName": "Kenobi",
+    "age": 36
+  },
+  {
+    "gender": "Female",
+    "name": "Yaddle",
+    "lastName": "Kenobi",
+    "age": 72
+  },
+  {
+    "gender": "Male",
+    "name": "Anakin",
+    "lastName": "Organa",
+    "age": 20
+  },
+  {
+    "gender": "Female",
+    "name": "Leia",
+    "lastName": "Fett",
+    "age": 65
+  },
+  {
+    "gender": "Male",
+    "name": "Obi Wan",
+    "lastName": "Solo",
+    "age": 47
+  },
+  {
+    "gender": "Female",
+    "name": "Leia",
+    "lastName": "Fett",
+    "age": 76
+  },
+  {
+    "gender": "Female",
+    "name": "Barrissa",
+    "lastName": "Fett",
+    "age": 60
+  },
+  {
+    "gender": "Male",
+    "name": "Ben",
+    "lastName": "Skywalker",
+    "age": 52
+  },
+  {
+    "gender": "Female",
+    "name": "Delva",
+    "lastName": "Kenobi",
+    "age": 71
+  },
+  {
+    "gender": "Female",
+    "name": "Ahsoka",
+    "lastName": "Kenobi",
+    "age": 66
+  },
+  {
+    "gender": "Male",
+    "name": "Anakin",
+    "lastName": "Kenobi",
+    "age": 40
+  },
+  {
+    "gender": "Male",
+    "name": "Palpatine",
+    "lastName": "Solo",
+    "age": 65
+  },
+  {
+    "gender": "Female",
+    "name": "Leia",
+    "lastName": "Solo",
+    "age": 76
+  },
+  {
+    "gender": "Male",
+    "name": "Yoda",
+    "lastName": "Skywalker",
+    "age": 65
+  },
+  {
+    "gender": "Male",
+    "name": "Palpatine",
+    "lastName": "Fett",
+    "age": 21
+  },
+  {
+    "gender": "Male",
+    "name": "Han",
+    "lastName": "Solo",
+    "age": 47
+  }
+]
