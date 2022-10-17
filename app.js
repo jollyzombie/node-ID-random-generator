@@ -35,28 +35,23 @@ function randChoice(arr) {
 }
 
 for (i = 0; i < 20; i++) {
-  let obj = {
-    gender: '',
-    name: '',
-    lastName: '',
-    age: '',
-  };
+  const person = {};
 
   const randGender = randChoice(genders);
 
   if (randGender === 'Male') {
     const nameM = randChoice(maleNames);
-    obj.gender = 'Male';
-    obj.name = nameM;
+    person.gender = 'Male';
+    person.name = nameM;
   }
   if (randGender === 'Female') {
     const nameF = randChoice(femaleNames);
-    obj.gender = 'Female';
-    obj.name = nameF;
+    person.gender = 'Female';
+    person.name = nameF;
   }
-  obj.lastName = lastNames[Math.floor(Math.random() * lastNames.length)];
-  obj.age = Math.floor(Math.random() * (78 - 18 + 1)) + 18;
-  people.push(obj);
+  person.lastName = lastNames[Math.floor(Math.random() * lastNames.length)];
+  person.age = Math.floor(Math.random() * (78 - 18 + 1)) + 18;
+  people.push(person);
 }
 
 const peopleJson = JSON.stringify(people);

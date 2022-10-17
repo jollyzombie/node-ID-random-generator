@@ -1,122 +1,122 @@
 [
   {
-    "gender": "Male",
-    "name": "Anakin",
-    "lastName": "Solo",
-    "age": 19
-  },
-  {
     "gender": "Female",
-    "name": "Yaddle",
-    "lastName": "Fett",
-    "age": 31
-  },
-  {
-    "gender": "Female",
-    "name": "Padme",
+    "name": "Ahsoka",
     "lastName": "Skywalker",
-    "age": 53
+    "age": 64
   },
   {
-    "gender": "Female",
-    "name": "Barrissa",
-    "lastName": "Organa",
-    "age": 67
+    "gender": "Male",
+    "name": "Luke",
+    "lastName": "Solo",
+    "age": 56
   },
   {
     "gender": "Female",
     "name": "Padme",
-    "lastName": "Kenobi",
-    "age": 36
-  },
-  {
-    "gender": "Female",
-    "name": "Yaddle",
-    "lastName": "Kenobi",
-    "age": 72
-  },
-  {
-    "gender": "Male",
-    "name": "Anakin",
     "lastName": "Organa",
-    "age": 20
-  },
-  {
-    "gender": "Female",
-    "name": "Leia",
-    "lastName": "Fett",
-    "age": 65
+    "age": 32
   },
   {
     "gender": "Male",
-    "name": "Obi Wan",
-    "lastName": "Solo",
-    "age": 47
+    "name": "Bobba",
+    "lastName": "Organa",
+    "age": 25
   },
   {
     "gender": "Female",
-    "name": "Leia",
-    "lastName": "Fett",
-    "age": 76
-  },
-  {
-    "gender": "Female",
-    "name": "Barrissa",
-    "lastName": "Fett",
+    "name": "Mara Jade",
+    "lastName": "Kenobi",
     "age": 60
   },
   {
     "gender": "Male",
-    "name": "Ben",
-    "lastName": "Skywalker",
-    "age": 52
+    "name": "Yoda",
+    "lastName": "Fett",
+    "age": 33
+  },
+  {
+    "gender": "Male",
+    "name": "Han",
+    "lastName": "Kenobi",
+    "age": 53
+  },
+  {
+    "gender": "Female",
+    "name": "Jyn",
+    "lastName": "Fett",
+    "age": 66
+  },
+  {
+    "gender": "Female",
+    "name": "Rey",
+    "lastName": "Organa",
+    "age": 59
+  },
+  {
+    "gender": "Female",
+    "name": "Barrissa",
+    "lastName": "Organa",
+    "age": 33
   },
   {
     "gender": "Female",
     "name": "Delva",
-    "lastName": "Kenobi",
+    "lastName": "Solo",
     "age": 71
-  },
-  {
-    "gender": "Female",
-    "name": "Ahsoka",
-    "lastName": "Kenobi",
-    "age": 66
   },
   {
     "gender": "Male",
     "name": "Anakin",
-    "lastName": "Kenobi",
-    "age": 40
+    "lastName": "Skywalker",
+    "age": 31
   },
   {
     "gender": "Male",
-    "name": "Palpatine",
-    "lastName": "Solo",
-    "age": 65
+    "name": "Han",
+    "lastName": "Organa",
+    "age": 52
   },
   {
     "gender": "Female",
-    "name": "Leia",
+    "name": "Traya",
     "lastName": "Solo",
-    "age": 76
+    "age": 67
+  },
+  {
+    "gender": "Female",
+    "name": "Delva",
+    "lastName": "Fett",
+    "age": 43
   },
   {
     "gender": "Male",
     "name": "Yoda",
     "lastName": "Skywalker",
-    "age": 65
+    "age": 72
+  },
+  {
+    "gender": "Male",
+    "name": "Ben",
+    "lastName": "Skywalker",
+    "age": 20
+  },
+  {
+    "gender": "Female",
+    "name": "Leia",
+    "lastName": "Organa",
+    "age": 52
+  },
+  {
+    "gender": "Male",
+    "name": "Bobba",
+    "lastName": "Fett",
+    "age": 41
   },
   {
     "gender": "Male",
     "name": "Palpatine",
-    "lastName": "Fett",
-    "age": 21
-  },
-  {
-    "gender": "Male",
-    "name": "Han",
-    "lastName": "Solo",
-    "age": 47
+    "lastName": "Kenobi",
+    "age": 73
   }
 ]
